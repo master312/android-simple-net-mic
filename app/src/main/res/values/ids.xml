@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ipLabelTextView" type="id" />
+    <item name="ipListTextView" type="id" />
+    <item name="statusContainer" type="id" />
+</resources>
